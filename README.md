@@ -1,2 +1,2 @@
-# k-k-apl-g-r-nt-i-leme
+# küçük çaplı görüntü işleme çalışması
 çok küçükte olsa görüntü işlemde hatları belirleyip resme efekt uygulayan bir uygulama
