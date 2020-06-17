@@ -1,0 +1,10 @@
+C:\Users\oyn\source\repos\görüntü işleme\görüntü işleme\bin\Debug\görüntü işleme.exe.config
+C:\Users\oyn\source\repos\görüntü işleme\görüntü işleme\bin\Debug\görüntü işleme.exe
+C:\Users\oyn\source\repos\görüntü işleme\görüntü işleme\bin\Debug\görüntü işleme.pdb
+C:\Users\oyn\source\repos\görüntü işleme\görüntü işleme\obj\Debug\görüntü işleme.csprojAssemblyReference.cache
+C:\Users\oyn\source\repos\görüntü işleme\görüntü işleme\obj\Debug\görüntü_işleme.Form1.resources
+C:\Users\oyn\source\repos\görüntü işleme\görüntü işleme\obj\Debug\görüntü_işleme.Properties.Resources.resources
+C:\Users\oyn\source\repos\görüntü işleme\görüntü işleme\obj\Debug\görüntü işleme.csproj.GenerateResource.cache
+C:\Users\oyn\source\repos\görüntü işleme\görüntü işleme\obj\Debug\görüntü işleme.csproj.CoreCompileInputs.cache
+C:\Users\oyn\source\repos\görüntü işleme\görüntü işleme\obj\Debug\görüntü işleme.exe
+C:\Users\oyn\source\repos\görüntü işleme\görüntü işleme\obj\Debug\görüntü işleme.pdb
